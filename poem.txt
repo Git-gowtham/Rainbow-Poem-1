@@ -6,6 +6,8 @@ Orange
 Blue
 Green
 Indigo
+Earth day 
+Recycle Earth!
 Recycle!
 Unicorn
 Yellow
@@ -13,3 +15,5 @@ Red
 These are the colors of the rainbow.
 And the unicorn.
 Pony
+
+Finally got a code from shiffman what does the name means
